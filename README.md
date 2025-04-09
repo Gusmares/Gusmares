@@ -4,6 +4,8 @@
 🎯 Desenvolvedor, estudando segurança e automação  
 🧠 Foco em Hacking, Shell Script e Linux (Arch BTW)  
 ⚙️ Ferramentas que uso: Kdenlive, Bash, Python, Git
+
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 
 ## 📊 GitHub Stats
