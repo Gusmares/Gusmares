@@ -17,3 +17,6 @@
 ---
 
 ### ⚠️ Código é arte. Informação é arma.
+
+
+<img src="https://tenor.com/view/puppyhacker-gif-10733045244010125008"/>
