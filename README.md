@@ -19,4 +19,4 @@
 ### ⚠️ Código é arte. Informação é arma.
 
 
-<div class="tenor-gif-embed" data-postid="10733045244010125008" data-share-method="host" data-aspect-ratio="1.36066" data-width="100%"><a href="https://tenor.com/view/puppyhacker-gif-10733045244010125008">Puppyhacker GIF</a>from <a href="https://tenor.com/search/puppyhacker-gifs">Puppyhacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
