@@ -7,7 +7,7 @@
 
 
 ## 📊 GitHub Stats
-![Gusmares's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Gusmares's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusmares&show_icons=true&theme=radical)
 
 ## 🚀 Tecnologias
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
