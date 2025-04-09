@@ -6,8 +6,6 @@
 ⚙️ Ferramentas que uso: Kdenlive, Bash, Python, Git
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-
 ## 📊 GitHub Stats
 ![Gusmares's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
