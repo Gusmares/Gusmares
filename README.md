@@ -14,7 +14,5 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-1D99F3?style=flat&logo=kdenlive&logoColor=white)
 ---
-_"A perfeição não é um estado, é um caminho."_  
-
 
 ### ⚠️ Código é arte. Informação é arma.
