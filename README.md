@@ -4,7 +4,7 @@
 🧠 Entusiasta de **CyberSegurança**, **Linux (Arch BTW)** e **Sistemas Inteligentes**  
 ⚙️ Ferramentas: `Bash`, `Python`, `Git`, `Linux`, `Vim`
 
-🔗 **Portfólio**: [gusmares.netlify.app](https://67f7ceea0e1a948ad8c991f7--stunning-speculoos-fdcb47.netlify.app/)  
+🔗 **Portfólio**: [gusmares](https://67f88f02c8ad24000825af17--stunning-speculoos-fdcb47.netlify.app/)  
 📌 *"Código é arte. Informação é arma."*
 
 ---
