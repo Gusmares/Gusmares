@@ -4,7 +4,7 @@
 🧠 Entusiasta de **CyberSegurança**, **Linux (Arch BTW)** e **Sistemas Inteligentes**  
 ⚙️ Ferramentas: `Bash`, `Python`, `Git`, `Linux`, `Vim`
 
-🔗 **Portfólio**: [https://stunning-speculoos-fdcb47.netlify.app/)  
+🔗 **Portfólio**: https://stunning-speculoos-fdcb47.netlify.app/
 📌 *"Código é arte. Informação é arma."*
 
 ---
