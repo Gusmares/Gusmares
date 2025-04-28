@@ -43,14 +43,6 @@
 
 ---
 
-## 🚀 Projetos Destacados
-
-1. **[Projeto de Automação em Bash](link)** - Ferramenta para automação de tarefas em sistemas Linux
-2. **[Sistema de Segurança em Python](link)** - Scanner de vulnerabilidades básico
-3. **[Web App em PHP/Java](link)** - Aplicação web com funcionalidades de segurança
-
----
-
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN2aHV6cGMydWkyZzFmNXhzc2g4NDV4Z2IwdWVkYWw3aXozd3dqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="480"/>
   
@@ -61,5 +53,4 @@
 
 📫 **Como me encontrar**:
 - LinkedIn: [Gustavo Mares](link)
-- Email: gustavo.mares@email.com
-- Twitter: [@Gusmares](link)
+- Email: gustavocg2107@gmail.com
