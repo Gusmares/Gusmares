@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gusmares (Gustavo Mares)
+# 👋 Olá, eu sou o Gusmares (Gustavo)
 
 🎯 **Desenvolvedor Full-Stack | Security Enthusiast | Linux Power User**  
 🧠 **Foco**: CyberSecurity, Automação, Sistemas Inteligentes e Desenvolvimento Web  
@@ -12,7 +12,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gusmares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  ![Gusmares's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusmares&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusmares&layout=compact&langs_count=8&theme=radical&hide=procfile"/>
 </div>
 
