@@ -52,5 +52,5 @@
 ---
 
 📫 **Como me encontrar**:
-- LinkedIn: [Gustavo Mares](link)
+- LinkedIn: [Gusmares](link)
 - Email: gustavocg2107@gmail.com
