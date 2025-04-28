@@ -1,32 +1,74 @@
-# 👋 Olá! Eu sou o Gusmares
+# 👋 Olá, eu sou o Gusmares (Gustavo Mares)
 
-🎯 Desenvolvedor em formação, focado em **Segurança**, **Shell Script** e **Automação**  
-🧠 Entusiasta de **CyberSegurança**, **Linux (Arch BTW)** e **Sistemas Inteligentes**  
-⚙️ Ferramentas: `Bash`, `Python`, `Git`, `Linux`, `Vim`
+🎯 **Desenvolvedor Full-Stack | Security Enthusiast | Linux Power User**  
+🧠 **Foco**: CyberSecurity, Automação, Sistemas Inteligentes e Desenvolvimento Web  
+⚙️ **Stack Principal**: `Bash`, `Python`, `Java`, `C`, `PHP`, `Git`, `Arch Linux`  
+💡 *"Código é arte. Segurança é obrigação."*
 
-🔗 **Portfólio**: https://stunning-speculoos-fdcb47.netlify.app/
-📌 *"Código é arte. Informação é arma."*
-
----
-
-## 📊 GitHub Stats
-
-![Gusmares's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusmares&show_icons=true&theme=radical)
+🔗 **Portfólio**: [https://stunning-speculoos-fdcb47.netlify.app/](https://stunning-speculoos-fdcb47.netlify.app/)
 
 ---
 
-## 🚀 Tecnologias
+## 📊 GitHub Analytics
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gusmares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusmares&layout=compact&langs_count=8&theme=radical&hide=procfile"/>
+</div>
 
 ---
 
+## 🛠️ Tech Stack
 
+### 💻 Linguagens & Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-FF7F00?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🐧 Sistemas & Ferramentas
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔒 CyberSecurity Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF7F00?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gusmares&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🚀 Projetos Destacados
+
+1. **[Projeto de Automação em Bash](link)** - Ferramenta para automação de tarefas em sistemas Linux
+2. **[Sistema de Segurança em Python](link)** - Scanner de vulnerabilidades básico
+3. **[Web App em PHP/Java](link)** - Aplicação web com funcionalidades de segurança
+
+---
+
+<div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN2aHV6cGMydWkyZzFmNXhzc2g4NDV4Z2IwdWVkYWw3aXozd3dqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="480"/>
-
+  
+  *"O conhecimento é a única arma que não pode ser hackeada."*
+</div>
 
 ---
+
+📫 **Como me encontrar**:
+- LinkedIn: [Gustavo Mares](link)
+- Email: gustavo.mares@email.com
+- Twitter: [@Gusmares](link)
