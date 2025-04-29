@@ -2,7 +2,7 @@
 
 🎯 **Desenvolvedor Full-Stack | Security Enthusiast | Linux Power User**  
 🧠 **Foco**: CyberSecurity, Automação, Sistemas Inteligentes e Desenvolvimento Web  
-⚙️ **Stack Principal**: `Bash`, `Python`, `Java`, `C`, `PHP`, `Git`, `Arch Linux`  
+⚙️ **Stack Principal**: `Bash`, `Python`, `Java`, `C#`, `Git`, `Arch Linux`  
 💡 *"Código é arte. Segurança é obrigação."*
 
 🔗 **Portfólio**: [https://stunning-speculoos-fdcb47.netlify.app/](https://stunning-speculoos-fdcb47.netlify.app/)
@@ -10,7 +10,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gusmares&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusmares&layout=compact&langs_count=8&theme=radical&hide=procfile"/>
@@ -20,17 +19,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Linguagens & Frameworks
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-FF7F00?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🐧 Sistemas & Ferramentas
-
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
