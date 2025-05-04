@@ -46,5 +46,5 @@
 ---
 
 📫 **Como me encontrar**:
-- LinkedIn: [Gusmares](link)
+- LinkedIn: [Gusmares]([link](https://www.linkedin.com/in/gustavo-gaspar-270850319/))
 - Email: gustavocg2107@gmail.com
