@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gusmares (Gustavo)
 
-🎯 **Desenvolvedor Full-Stack | Security Enthusiast | Linux Power User**  
+🎯 **Desenvolvedor | Security Enthusiast | Linux Power User**  
 🧠 **Foco**: CyberSecurity, Automação, Sistemas Inteligentes e Desenvolvimento Web  
 ⚙️ **Stack Principal**: `Bash`, `Python`, `Java`, `C#`, `Git`, `Arch Linux`  
 💡 *"Código é arte. Segurança é obrigação."*
