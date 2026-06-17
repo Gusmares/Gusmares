@@ -41,13 +41,6 @@
 ![Networking](https://img.shields.io/badge/Redes-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS%20%26%20Infra-6DB33F?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
----
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN2aHV6cGMydWkyZzFmNXhzc2g4NDV4Z2IwdWVkYWw3aXozd3dqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="480"/>
-
-  *"O conhecimento é a única arma que não pode ser hackeada."*
-</div>
 
 ---
 
