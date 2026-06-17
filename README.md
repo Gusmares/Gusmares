@@ -19,9 +19,10 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Design & Web
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,6 +36,7 @@
 ### 🔒 Segurança, Infra & Sistemas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian%20Server-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Networking](https://img.shields.io/badge/Redes-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS%20%26%20Infra-6DB33F?style=for-the-badge&logo=cloudflare&logoColor=white)
