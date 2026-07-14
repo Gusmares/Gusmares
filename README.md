@@ -3,7 +3,6 @@
 🎨 **Designer & Desenvolvedor Web** | 🔐 **Security Enthusiast** | 🐧 **Linux Power User**  
 🎯 **Foco**: Design de Interfaces, Desenvolvimento Web, CyberSecurity e Automação  
 ⚙️ **Stack**: `Figma` `HTML/CSS` `JavaScript` `Python` `Java` `Arch Linux`  
-💡 *"Código é arte. Segurança é obrigação."*
 
 🔗 **Portfólio**: [stunning-speculoos-fdcb47.netlify.app](https://stunning-speculoos-fdcb47.netlify.app/)
 
