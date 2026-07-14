@@ -7,22 +7,11 @@
 
 🔗 **Portfólio**: [stunning-speculoos-fdcb47.netlify.app](https://stunning-speculoos-fdcb47.netlify.app/)
 
----
-
-## 📊 GitHub Analytics
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gusmares&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusmares&layout=compact&langs_count=8&theme=radical&hide=procfile"/>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Design & Web
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
