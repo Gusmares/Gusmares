@@ -4,7 +4,7 @@
 🎯 **Foco**: Design de Interfaces, Desenvolvimento Web, CyberSecurity e Automação  
 ⚙️ **Stack**: `Figma` `HTML/CSS` `JavaScript` `Python` `Java` `Arch Linux`  
 
-🔗 **Portfólio**: [stunning-speculoos-fdcb47.netlify.app](https://stunning-speculoos-fdcb47.netlify.app/)
+🔗 **Portfólio**: [PORTIFÓLIO](https://gusmares.github.io/Portfolio/)
 
 ## 🛠️ Tech Stack
 
